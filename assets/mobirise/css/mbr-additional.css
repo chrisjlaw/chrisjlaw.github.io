@@ -7745,7 +7745,7 @@ body {
 .cid-rpqP4tsUuN {
   padding-top: 0px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #fdfdfd;
 }
 @media (min-width: 992px) {
   .cid-rpqP4tsUuN .mbr-figure {
@@ -7762,9 +7762,12 @@ body {
   text-align: right;
 }
 .cid-rZzdaBjCDN {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #f8f8f8;
+}
+.cid-rZzdaBjCDN .media-container-row .mbr-text {
+  color: #232323;
 }
 .cid-rYXOioC9gu {
   padding-top: 60px;

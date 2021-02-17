@@ -8373,8 +8373,29 @@ body {
 .cid-rpqPovB67I .mbr-section-subtitle {
   color: #767676;
 }
+.cid-sperit0XQH {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-sperit0XQH .image-block {
+  margin: auto;
+}
+.cid-sperit0XQH figcaption {
+  position: relative;
+}
+.cid-sperit0XQH figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sperit0XQH .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rpqPUYPFEh {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Academic Site",
-    "currentPage": "AnimalisDesigns.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -10627,7 +10627,7 @@
         }
       ]
     },
-    "AnimalisDesigns.html": {
+    "animalisdesigns.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "AnimalisDesigns",

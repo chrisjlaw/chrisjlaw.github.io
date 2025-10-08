@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Academic Site",
-    "currentPage": "index.html",
+    "currentPage": "studentpublications.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -41,7 +41,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 201,
+    "uniqCompNum": 213,
     "versionPublish": "5.8.12",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -13643,7 +13643,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><span style=\"font-size: 1rem;\">*</span><span style=\"font-size: 1rem;\">equal contribution</span><span style=\"font-size: 1rem;\"> • ^</span><span style=\"font-size: 1rem;\">high school/undergraduate mentee • ºgraduate student mentee • <b>bold</b> = team member</span></p><p><span style=\"font-size: 1rem;\"><u>IN PREPARATION/REVIEW</u></span></p><p><span style=\"font-size: 1rem;\"><b>Huizenga C^</b></span><span style=\"font-size: 1rem;\">, </span><span style=\"font-size: 1rem;\"><b>Brice N^</b></span><span style=\"font-size: 1rem;\">, &amp; </span><b style=\"font-size: 1rem;\"><u>Law CJ</u></b><span style=\"font-size: 1rem;\">. In preparation. Ecological drivers of lagomorph skeletal diversity.&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\"><b>Cardakli F^</b>, Chatar N, Tseng ZJ, &amp; <b><u>Law CJ</u></b>. In preparation. Effect of sexual dimorphism on biting performance.</span></p><p><span style=\"font-size: 1rem;\"><br></span></p><p><span style=\"font-size: 1rem;\"><u>PUBLISHED/ACCEPTED</u></span></p><p><b style=\"font-size: 1rem;\"><u>Law CJ</u></b><span style=\"font-size: 1rem;\">, </span><b style=\"font-size: 1rem;\">Linden T^</b><span style=\"font-size: 1rem;\">, &amp; Flynn JJ. 2024. </span><a href=\"https://www.researchgate.net/publication/385170575_Skull_evolution_and_lineage_diversification_in_endemic_Malagasy_carnivorans\" class=\"text-primary\" target=\"_blank\" style=\"font-size: 1rem; background-color: rgb(255, 255, 255);\">Skull evolution and lineage diversification in endemic Malagasy carnivorans</a><span style=\"font-size: 1rem;\">. </span><i style=\"font-size: 1rem;\">Royal Society Open Science</i><span style=\"font-size: 1rem;\">. 11. 240538.&nbsp;</span><a href=\"https://doi.org/10.1098/rsos.240538\" class=\"text-primary\" target=\"_blank\" style=\"font-size: 1rem; background-color: rgb(255, 255, 255);\">doi.org/10.1098/rsos.240538</a></p><p><b>Burtner AE^</b>, Grossnickle DM, Santana SE, &amp; <b><u>Law CJ</u></b>. 2024. <a href=\"https://www.researchgate.net/publication/382553946_Gliding_toward_an_understanding_of_the_origin_of_flight_in_bats\" class=\"text-primary\" target=\"_blank\">Gliding towards an understanding of the origin of flight in bats</a>. <i style>PeerJ</i>. 12. e17824. <a href=\"http://doi.org/10.7717/peerj.17824\" class=\"text-primary\" target=\"_blank\">doi.org/10.7717/peerj.17824</a></p><p><b>Rickman J*^</b>, <b>Burtner A*^</b>, <b>Linden T^</b>, Santana S, &amp; <b><u>Law CJ</u></b>*. 2023. <a href=\"https://www.researchgate.net/publication/371853469_Size_And_Locomotor_Ecology_Have_Differing_Effects_on_the_External_and_Internal_Morphologies_of_Squirrel_Rodentia_Sciuridae_Limb_Bones\" class=\"text-primary\" target=\"_blank\">Size and locomotor ecology have differing effects on the external and internal morphologies of squirrel (Rodentia: Sciuridae) limb bones</a>. <i>Integrative Organismal Biology</i>. 5. obad017.&nbsp;<a href=\"http://doi.org/10.1093/iob/obad017\" class=\"text-primary\" target=\"_blank\">doi.org/10.1093/iob/obad017</a></p><p><b>Linden T</b>*^, <b>Burtner A^</b>, <b>Rickman J^</b>, <b>McFeely A^</b>, Santana S, &amp; <b><u>Law CJ</u></b>*. 2023. <a href=\"https://www.researchgate.net/publication/367410504_Scaling_patterns_of_body_plans_differ_among_squirrel_ecotypes\" class=\"text-primary\" target=\"_blank\">Scaling patterns of body plans differ between squirrel ecotypes</a>. <i>PeerJ</i>. 11. e14800. <a href=\"https://peerj.com/articles/14800/\" class=\"text-primary\" target=\"_blank\">doi.org/10.7717/peerj.14800</a></p><p><b><u>Law CJ</u></b>, <b style>Blackwell E^</b>, Curtis AA, Dickinson E, Hartstone-Rose A, and Santana SE. 2022. <a href=\"https://www.researchgate.net/publication/362232842_Decoupled_evolution_of_the_cranium_and_mandible_in_carnivoran_mammals\" class=\"text-primary\" target=\"_blank\">Decoupled evolution of crania and mandibles in carnivoran mammals</a>. <i>Evolution</i>. 76. 2959-2974.&nbsp;<a href=\"http://doi.org/10.1111/evo.14578\" class=\"text-primary\" target=\"_blank\">doi.org/10.1111/evo.14578</a></p><p><span style=\"font-size: 1rem;\">Lang MMº, Bertrand OC, Flores GSM, </span><b style=\"font-size: 1rem;\"><u>Law CJ</u></b><span style=\"font-size: 1rem;\">, Abdul-Sater JAD, Spakowski S, Silcox MT. 2022. </span><a href=\"https://www.researchgate.net/publication/359869722_Scaling_Patterns_of_Cerebellar_Petrosal_Lobules_in_Euarchontoglires_Impacts_of_Ecology_and_Phylogeny\" class=\"text-primary\" target=\"_blank\" style=\"font-size: 1rem; background-color: rgb(255, 255, 255);\">Scaling patterns of cerebellar petrosal lobules in Euarchontoglires: impacts of ecology and phylogeny</a><span style=\"font-size: 1rem;\">. </span><i style=\"font-size: 1rem;\">Anatomical Records</i><span style=\"font-size: 1rem;\">. 305. 3472-3503.&nbsp;</span><a href=\"http://doi.org/10.1002/ar.24929\" class=\"text-primary\" target=\"_blank\" style=\"font-size: 1rem; background-color: rgb(255, 255, 255);\">doi.org/10.1002/ar.24929</a></p><p><b><u>Law CJ</u></b>, <b>Duran E^</b>, <b>Hung N^</b>, <b>Richards E^</b>, <b>Santillan I^</b>, &amp; Mehta RS. 2018. <a href=\"https://www.researchgate.net/publication/328003909_Effects_of_diet_on_cranial_morphology_and_biting_ability_in_musteloid_mammals\" target=\"_blank\">Effects of diet on cranial morphology and biting ability in musteloid mammals</a>. <i>Journal of Evolutionary Biology.</i> 31. 1918-1931. <a href=\"http://doi.org/10.1111/jeb.13385 \" target=\"_blank\">doi.org/10.1111/jeb.13385&nbsp;</a></p><p><b>Jones K</b>*^&nbsp;&amp; <u style=\"font-weight: bold;\">Law CJ</u>*. 2018. <a href=\"https://www.researchgate.net/publication/323892859_Differentiation_of_craniomandibular_morphology_in_two_sympatric_Peromyscus_mice_Cricetidae_Rodentia\" target=\"_blank\">Differentiation of craniomandibular morphology in two sympatric </a><a href=\"https://www.researchgate.net/publication/323892859_Differentiation_of_craniomandibular_morphology_in_two_sympatric_Peromyscus_mice_Cricetidae_Rodentia\" target=\"_blank\"><i>Peromyscus</i></a><a href=\"https://www.researchgate.net/publication/323892859_Differentiation_of_craniomandibular_morphology_in_two_sympatric_Peromyscus_mice_Cricetidae_Rodentia\" target=\"_blank\"> mice (Cricetidae: Rodentia)</a>. <i>Mammal Research</i>. 63. 277–283.&nbsp;<a href=\"http://doi.org/10.1007/s13364-018-0364-2 \" target=\"_blank\">doi.org/10.1007/s13364-018-0364-2&nbsp;</a></p><p><b>Hung N^ </b>&amp; <b><u>Law CJ</u></b>. 2016. <a href=\"https://www.researchgate.net/publication/312172473_Lutra_Lutra_Carnivora_Mustelidae\" target=\"_blank\"><i>Lutra lutra</i></a><a href=\"https://www.researchgate.net/publication/312172473_Lutra_Lutra_Carnivora_Mustelidae\" target=\"_blank\"> (Carnivora: Mustelidae)</a>. <i>Mammalian Species</i>. 48. 109–122. <a href=\"http://doi.org/10.1093/mspecies/sew011\" target=\"_blank\">doi.org/10.1093/mspecies/sew011</a></p><p><b><u>Law CJ</u></b>, <b>Venkatram V^</b>, &amp; Mehta RS. 2016.<a href=\"https://www.researchgate.net/publication/307946144_Sexual_dimorphism_in_craniomandibular_morphology_of_southern_sea_otters_Enhydra_lutris_nereis\" target=\"_blank\"> Sexual dimorphism of craniomandibular morphology in southern sea otters (</a><u><a href=\"https://www.researchgate.net/publication/307946144_Sexual_dimorphism_in_craniomandibular_morphology_of_southern_sea_otters_Enhydra_lutris_nereis\" target=\"_blank\"><i>Enhydra lutris nereis</i></a></u><a href=\"https://www.researchgate.net/publication/307946144_Sexual_dimorphism_in_craniomandibular_morphology_of_southern_sea_otters_Enhydra_lutris_nereis\" target=\"_blank\">)</a>. <i>Journal of Mammalogy</i>. 97. 1764-1773. <a href=\"http://doi.org/10.1093/jmammal/gyw148\" target=\"_blank\">doi.org/10.1093/jmammal/gyw148</a></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><span style=\"font-size: 1rem;\">*</span><span style=\"font-size: 1rem;\">equal contribution</span><span style=\"font-size: 1rem;\"> • ^</span><span style=\"font-size: 1rem;\">high school/undergraduate mentee • ºgraduate student mentee • <b>bold</b> = team member</span></p></div>\n        </div>\n    </div>\n</section>",
           "_sourceTheme": "mobirise4",
           "_cid": "uZ0Fd2jQuj",
           "_protectedParams": [],
@@ -13651,6 +13651,640 @@
           "_once": false,
           "_params": {},
           "_anchor": "content1-5k"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when not (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            "& when (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"50\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/furkancardakli-676x741.jpeg\" alt=\"Mobirise\">  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br><b><br></b><b>Cardakli F^</b>, Chatar N, Tseng ZJ, &amp;<b><u> Law CJ</u></b>. In preparation. Effect of sexual dimorphism on biting performance.<br><br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-5w",
+          "_isUserblock": true,
+          "_cid": "uZ0Qz1I1w5",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when not (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            "& when (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"50\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/niacoby-studentauthors-1-375x375.jpg\" alt=\"Mobirise\">  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br><br><b>Huizenga C^</b>, <b>Brice N^</b>, &amp; <b><u>Law CJ</u></b>. In preparation. Ecological drivers of lagomorph skeletal diversity.<br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-5v",
+          "_isUserblock": true,
+          "_cid": "uZ0Qykbynt",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when not (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            "& when (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"50\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/tate-linden-676x901.jpeg\" alt=\"Mobirise\">  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br><b><u><br></u></b><b><u>Law CJ</u></b>, <b>Linden T^</b>, &amp; Flynn JJ. 2024. <a href=\"https://www.researchgate.net/publication/385170575_Skull_evolution_and_lineage_diversification_in_endemic_Malagasy_carnivorans\" class=\"text-primary\" target=\"_blank\">Skull evolution and lineage diversification in endemic Malagasy carnivorans</a>. Royal Society Open Science. 11. 240538.<a href=\"https://doi.org/10.1098/rsos.240538\" class=\"text-primary\" target=\"_blank\"> doi.org/10.1098/rsos.240538</a><br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "uZ0IWmyHOc",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content6-5l"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when not (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            "& when (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"50\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/abby-burtner-1-574x765.jpg\" alt=\"Mobirise\">  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br><b><br></b><b>Burtner AE^</b>, Grossnickle DM, Santana SE, &amp; <b><u>Law CJ</u></b>. 2024. <a href=\"https://www.researchgate.net/publication/382553946_Gliding_toward_an_understanding_of_the_origin_of_flight_in_bats\" class=\"text-primary\" target=\"_blank\">Gliding towards an understanding of the origin of flight in bats</a>. PeerJ. 12. e17824. <a href=\"http://doi.org/10.7717/peerj.17824\" class=\"text-primary\" target=\"_blank\">doi.org/10.7717/peerj.17824</a><br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "uZ0JyzEqrN",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content6-5m"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when not (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            "& when (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"50\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/rickman2023-iob-studentauthors-375x379.jpg\" alt=\"Mobirise\">  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b><br></b><b>Rickman J*^</b>, <b>Burtner A*^</b>, <b>Linden T^</b>, Santana S, &amp; <b><u>Law CJ</u></b>*. 2023. <a href=\"https://www.researchgate.net/publication/371853469_Size_And_Locomotor_Ecology_Have_Differing_Effects_on_the_External_and_Internal_Morphologies_of_Squirrel_Rodentia_Sciuridae_Limb_Bones\" class=\"text-primary\" target=\"_blank\">Size and locomotor ecology have differing effects on the external and internal morphologies of squirrel (Rodentia: Sciuridae) limb bones</a>. Integrative Organismal Biology. 5. obad017. <a href=\"http://doi.org/10.1093/iob/obad017\" class=\"text-primary\" target=\"_blank\">doi.org/10.1093/iob/obad017</a><br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-5n",
+          "_isUserblock": true,
+          "_cid": "uZ0K66UpeB",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when not (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            "& when (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"50\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/linden2023-peerj-studentauthors-375x379.jpg\" alt=\"Mobirise\">  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br><b><br>Linden T*^</b>, <b>Burtner A^</b>, <b>Rickman J^</b>, <b>McFeely A^</b>, Santana S, &amp; <b><u>Law CJ*</u></b>. 2023. <a href=\"https://www.researchgate.net/publication/367410504_Scaling_patterns_of_body_plans_differ_among_squirrel_ecotypes\" class=\"text-primary\" target=\"_blank\">Scaling patterns of body plans differ between squirrel ecotypes</a>. PeerJ. 11. e14800. <a href=\"http://doi.org/10.7717/peerj.14800\" class=\"text-primary\" target=\"_blank\">doi.org/10.7717/peerj.14800</a><br><br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-5o",
+          "_isUserblock": true,
+          "_cid": "uZ0K6EhlZh",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when not (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            "& when (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"50\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/emilyblackwell-574x572.jpg\" alt=\"Mobirise\">  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br><u><b>Law CJ</b></u>, <b>Blackwell E^</b>, Curtis AA, Dickinson E, Hartstone-Rose A, and Santana SE. 2022. <a href=\"https://www.researchgate.net/publication/362232842_Decoupled_evolution_of_the_cranium_and_mandible_in_carnivoran_mammals\" class=\"text-primary\" target=\"_blank\">Decoupled evolution of crania and mandibles in carnivoran mammals</a>. Evolution. 76. 2959-2974. <a href=\"http://doi.org/10.1111/evo.14578\" class=\"text-primary\" target=\"_blank\">doi.org/10.1111/evo.14578</a><br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-5p",
+          "_isUserblock": true,
+          "_cid": "uZ0K78rhO0",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when not (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            "& when (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"50\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/sea-otter-etsy-156x123.png\" alt=\"Mobirise\">  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br>Lang MMº, Bertrand OC, Flores GSM, <b><u>Law CJ</u></b>, Abdul-Sater JAD, Spakowski S, Silcox MT. 2022. <a href=\"https://www.researchgate.net/publication/359869722_Scaling_Patterns_of_Cerebellar_Petrosal_Lobules_in_Euarchontoglires_Impacts_of_Ecology_and_Phylogeny\" class=\"text-primary\" target=\"_blank\">Scaling patterns of cerebellar petrosal lobules in Euarchontoglires: impacts of ecology and phylogeny</a>. Anatomical Records. 305. 3472-3503. <a href=\"http://doi.org/10.1002/ar.24929\" class=\"text-primary\" target=\"_blank\">doi.org/10.1002/ar.24929</a><br><br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-5q",
+          "_isUserblock": true,
+          "_cid": "uZ0K7M5N5E",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when not (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            "& when (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"50\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/law2018-jeb-studentauthors-322x341.jpg\" alt=\"Mobirise\">  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br><b><br><u>Law CJ</u></b>, <b>Duran E^</b>, <b>Hung N^</b>, <b>Richards E^</b>, <b>Santillan I^</b>, &amp; Mehta RS. 2018. <a href=\"https://www.researchgate.net/publication/328003909_Effects_of_diet_on_cranial_morphology_and_biting_ability_in_musteloid_mammals\" class=\"text-primary\" target=\"_blank\">Effects of diet on cranial morphology and biting ability in musteloid mammals</a>. Journal of Evolutionary Biology. 31. 1918-1931. <a href=\"http://doi.org/10.1111/jeb.13385\" class=\"text-primary\" target=\"_blank\">doi.org/10.1111/jeb.13385</a> <br><br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-5r",
+          "_isUserblock": true,
+          "_cid": "uZ0LJjZJ2R",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when not (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            "& when (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"50\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/kazjones-262x300.jpg\" alt=\"Mobirise\">  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br><b><br>Jones K*^</b> &amp; <b><u>Law CJ*</u></b>. 2018. <a href=\"https://www.researchgate.net/publication/323892859_Differentiation_of_craniomandibular_morphology_in_two_sympatric_Peromyscus_mice_Cricetidae_Rodentia\" class=\"text-primary\" target=\"_blank\">Differentiation of craniomandibular morphology in two sympatric Peromyscus mice (Cricetidae: Rodentia).</a> Mammal Research. 63. 277–283. <a href=\"http://doi.org/10.1007/s13364-018-0364-2\" class=\"text-primary\" target=\"_blank\">doi.org/10.1007/s13364-018-0364-2</a> <br><br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-5s",
+          "_isUserblock": true,
+          "_cid": "uZ0LJQXtEh",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when not (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            "& when (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"50\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/nancyhung-1-300x200.jpg\" alt=\"Mobirise\">  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br><b><br></b><b><br></b><b>Hung N^</b> &amp; <b><u>Law CJ</u></b>. 2016. <a href=\"https://www.researchgate.net/publication/312172473_Lutra_Lutra_Carnivora_Mustelidae\" class=\"text-primary\" target=\"_blank\">Lutra lutra (Carnivora: Mustelidae).</a> Mammalian Species. 48. 109–122. <a href=\"http://doi.org/10.1093/mspecies/sew011\" class=\"text-primary\" target=\"_blank\">doi.org/10.1093/mspecies/sew011</a><br><br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-5t",
+          "_isUserblock": true,
+          "_cid": "uZ0LKpLXGa",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when not (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            "& when (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"50\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/vikramvenkatram-300x300.jpg\" alt=\"Mobirise\">  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br><b><br><u>Law CJ</u></b>, <b>Venkatram V^</b>, &amp; Mehta RS. 2016. <a href=\"https://www.researchgate.net/publication/307946144_Sexual_dimorphism_in_craniomandibular_morphology_of_southern_sea_otters_Enhydra_lutris_nereis\" class=\"text-primary\" target=\"_blank\">Sexual dimorphism of craniomandibular morphology in southern sea otters (<i>Enhydra lutris nereis</i>)</a>. Journal of Mammalogy. 97. 1764-1773. <a href=\"http://doi.org/10.1093/jmammal/gyw148\" class=\"text-primary\" target=\"_blank\">doi.org/10.1093/jmammal/gyw148</a><br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-5u",
+          "_isUserblock": true,
+          "_cid": "uZ0LKXczCH",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         }
       ]
     }

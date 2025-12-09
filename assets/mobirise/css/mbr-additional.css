@@ -1844,6 +1844,43 @@ section.lazy-placeholder:after {
   color: #232323;
   font-size: 17px;
 }
+.cid-v4U2p2jRnz {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-v4U2p2jRnz .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-v4U2p2jRnz .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-v4U2p2jRnz .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-v4U2p2jRnz .team-item .item-image img {
+  width: 100%;
+}
+.cid-v4U2p2jRnz .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-v4U2p2jRnz .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-v4U2p2jRnz .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-v4U2p2jRnz .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
 .cid-rplZ5KAbiA {
   padding-top: 45px;
   padding-bottom: 60px;
